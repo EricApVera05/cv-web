@@ -639,6 +639,7 @@ footer {
 	padding: 20px;
 	text-align: right;
 }
+
 .yt {
   width: 100%;
   height: 740px;
@@ -650,6 +651,7 @@ footer {
     box-sizing: border-box;
     align-items: start;
   }
+  
   .yt {
     height: 240px;
   }
