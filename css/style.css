@@ -644,7 +644,7 @@ footer {
   height: 740px;
 }
 
-@media (min-width: 500px) {
+@media screen (min-width: 500px) {
   .video {
     margin: 0;
     box-sizing: border-box;
